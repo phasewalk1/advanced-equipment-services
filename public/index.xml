@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Advanced Equipment Services</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Advanced Equipment Services</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Advanced Equipment Services&lt;/strong&gt;&#xA;P.O. Box 1548&#xA;Lafayette, CA 94549&lt;/p&gt;&#xA;&lt;p&gt;Toll-Free Phone: &lt;a href=&#34;tel:1-877-4-ICE-PROS&#34;&gt;1-877-4-ICE-PROS&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Phone: &lt;a href=&#34;tel:925-945-7411&#34;&gt;(925) 945-7411&lt;/a&gt;&#xA;Fax: &lt;a href=&#34;tel:925-945-7412&#34;&gt;(925) 945-7412&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:Steve@advancedequipmentservices.com&#34;&gt;Steve@advancedequipmentservices.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
